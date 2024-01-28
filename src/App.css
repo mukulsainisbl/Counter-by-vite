@@ -1,0 +1,25 @@
+#counter-Box{
+    width:auto;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;}
+#counter-Box > button{
+    width: 10rem;
+    height: 3rem;
+    color: green;
+    border: 2px solid green;
+    margin: 5px;
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+#counter-Box  > h1{
+    color:red;
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+
+}
